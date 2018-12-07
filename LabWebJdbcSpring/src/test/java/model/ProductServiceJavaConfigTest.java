@@ -35,4 +35,6 @@ public class ProductServiceJavaConfigTest {
 	public static void afterClass() {
 		((ConfigurableApplicationContext) context).close();
 	}
+	
+	//anchor so handsome
 }

@@ -36,5 +36,5 @@ public class ProductServiceJavaConfigTest {
 		((ConfigurableApplicationContext) context).close();
 	}
 	
-	//anchor so handsome
+	//anchor is very very handsome !!!
 }

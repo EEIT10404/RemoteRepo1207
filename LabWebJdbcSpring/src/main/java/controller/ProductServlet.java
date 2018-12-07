@@ -24,7 +24,7 @@ import model.ProductService;
 public class ProductServlet extends HttpServlet {
 	private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 	private ProductService productService;
-	private int a;
+	private int n;
 	@Override
 	public void init() throws ServletException {
 		ServletContext application = this.getServletContext();

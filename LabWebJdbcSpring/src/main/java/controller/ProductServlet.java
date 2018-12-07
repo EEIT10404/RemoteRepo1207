@@ -28,6 +28,7 @@ public class ProductServlet extends HttpServlet {
 	private int b;
 	private int c;
 	private int d;
+	private int e;
 //<<<<<<< HEAD
 //<<<<<<< HEAD
 //=======

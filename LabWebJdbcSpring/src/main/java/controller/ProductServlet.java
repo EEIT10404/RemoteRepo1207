@@ -25,6 +25,7 @@ public class ProductServlet extends HttpServlet {
 	private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 	private ProductService productService;
 	private int a;
+	private int b;
 //<<<<<<< HEAD
 //<<<<<<< HEAD
 //=======

@@ -42,6 +42,9 @@ public class CustomerServiceXmlTest {
 	public static void afterClass() {
 		((ConfigurableApplicationContext) context).close();
 	}
-	
-	//anchor so handsome
+//<<<<<<< HEAD
+//	
+//	//anchor so handsome
+//=======
+//>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 }

@@ -35,6 +35,9 @@ public class ProductServiceJavaConfigTest {
 	public static void afterClass() {
 		((ConfigurableApplicationContext) context).close();
 	}
-	
-	//anchor is very very handsome !!!
+//<<<<<<< HEAD
+//	
+//	//anchor is very very handsome !!!
+//=======
+//>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 }

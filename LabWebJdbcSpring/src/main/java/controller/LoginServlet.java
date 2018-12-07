@@ -1,5 +1,15 @@
 package controller;
+<<<<<<< HEAD
 
+=======
+//<<<<<<< HEAD
+////add comments
+////add comments2
+////add comments3
+//=======
+//
+//>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
+>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;

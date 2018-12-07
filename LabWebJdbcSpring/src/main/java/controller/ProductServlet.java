@@ -24,6 +24,10 @@ import model.ProductService;
 public class ProductServlet extends HttpServlet {
 	private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 	private ProductService productService;
+//<<<<<<< HEAD
+//=======
+//	
+//>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 	@Override
 	public void init() throws ServletException {
 		ServletContext application = this.getServletContext();

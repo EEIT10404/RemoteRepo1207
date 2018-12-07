@@ -24,10 +24,10 @@ import model.ProductService;
 public class ProductServlet extends HttpServlet {
 	private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 	private ProductService productService;
-<<<<<<< HEAD
-=======
 	private int a;
 	private int b;
+	private int c;
+	private int d;
 //<<<<<<< HEAD
 //<<<<<<< HEAD
 //=======
@@ -39,7 +39,7 @@ public class ProductServlet extends HttpServlet {
 ////	
 ////>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 //>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
->>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
+//>>>>>>> branch 'master' of https://github.com/EEIT10404/RemoteRepo1207.git
 	@Override
 	public void init() throws ServletException {
 		ServletContext application = this.getServletContext();
